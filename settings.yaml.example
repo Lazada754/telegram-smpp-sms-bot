@@ -2,9 +2,9 @@
 log_level: 'DEBUG'
 
 telegram:
-  bot_token: '00000000000:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
-  channel_id: '-10000000000000'
-  proxy_enabled: True
+  bot_token:5846446396:AAE4bZspp7si9o8f4FCMmR8Do6BYHWoHB30
+  saluran_id: 6012323693
+  proxy_enabled: Benar
   proxy_host: 'socks5://SOCKS5_IP_ADDR:1881'
   proxy_login: 'SOCKS_LOGIN'
   proxy_pass: 'SOCKS_PASSWD'
